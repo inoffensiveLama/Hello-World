@@ -14,4 +14,3 @@ I used C++ to create this program.
 # Useful Websites
 
 * [Udacity](https://www.udacity.com/blog/2021/05/how-to-print-in-cpp.html)
-* [Web Site Name](http://url.link.goes.here)
